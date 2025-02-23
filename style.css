@@ -1,1 +1,14 @@
+/* Общие стили */
+body {
+    margin: 0;
+    overflow: hidden;
+}
 
+/* Стили для видео и канваса */
+video, canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
